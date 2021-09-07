@@ -1,2 +1,2 @@
 # chatito
-React Native Mobile Chat App
+Simple React Native Mobile Chat App
